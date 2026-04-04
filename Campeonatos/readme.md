@@ -13,11 +13,11 @@ Sistema de organização de campeonatos de FIFA para jogar com amigos — no est
 
 > Sem precisar baixar nada — abre direto no navegador, inclusive no celular.
 
-**[▶ Abrir o app](https://renan-j-saturnino.github.io/JS---React/Campeonatos/campeonatos/index.html)**
+**[▶ Abrir o app](https://renan-j-saturnino.github.io/JS---React/Campeonatos/campeonatos/campeonato-fifa.html)**
 
 Ou baixe o arquivo para usar offline:
 
-**[⬇ Baixar index.html](https://raw.githubusercontent.com/Renan-J-Saturnino/JS---React/main/Campeonatos/campeonatos/index.html)**
+**[⬇ Baixar index.html](https://raw.githubusercontent.com/Renan-J-Saturnino/JS---React/main/Campeonatos/campeonatos/campeonato-fifa.html)**
 
 > Para salvar: clique com o botão direito no link acima → *Salvar link como...*
 
