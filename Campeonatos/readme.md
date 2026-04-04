@@ -9,6 +9,20 @@ Sistema de organização de campeonatos de FIFA para jogar com amigos — no est
 
 ---
 
+## 🌐 Acesso rápido
+
+> Sem precisar baixar nada — abre direto no navegador, inclusive no celular.
+
+**[▶ Abrir o app](https://renan-j-saturnino.github.io/JS---React/Campeonatos/campeonato-fifa.html)**
+
+Ou baixe o arquivo para usar offline:
+
+**[⬇ Baixar campeonato-fifa.html](https://raw.githubusercontent.com/Renan-J-Saturnino/JS---React/main/Campeonatos/campeonato-fifa.html)**
+
+> Para salvar: clique com o botão direito no link acima → *Salvar link como...*
+
+---
+
 ## 🎮 Funcionalidades
 
 - **Configuração rápida** — adicione os jogadores, escolha o número de grupos e o sistema sorteia tudo automaticamente
