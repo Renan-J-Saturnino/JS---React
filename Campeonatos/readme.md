@@ -17,7 +17,7 @@ Sistema de organização de campeonatos de FIFA para jogar com amigos — no est
 
 Ou baixe o arquivo para usar offline:
 
-**[⬇ Baixar index.html](https://raw.githubusercontent.com/Renan-J-Saturnino/JS---React/main/Campeonatos/campeonatos/campeonato-fifa.html)**
+**[⬇ Baixar index.html](https://github.com/Renan-J-Saturnino/JS---React/blob/main/Campeonatos/campeonatos/campeonato-fifa.html)**
 
 > Para salvar: clique com o botão direito no link acima → *Salvar link como...*
 
