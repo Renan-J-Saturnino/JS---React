@@ -1215,16 +1215,7 @@
     <button class="filter-btn" data-type="tv" onclick="setFilter(this,'tv')">Séries</button>
   </div>
 
-  <div class="api-notice" id="api-notice">
-    <span>🎬</span>
-    <div>
-      <div>Insira sua chave da TMDB para buscar filmes. <a href="https://www.themoviedb.org/settings/api" target="_blank" style="color:var(--gold2)">Obter grátis →</a></div>
-      <div class="api-key-setup">
-        <input type="text" id="api-key-input" placeholder="Cole sua API Key aqui...">
-        <button class="btn-sm" onclick="saveApiKey()">SALVAR</button>
-      </div>
-    </div>
-  </div>
+
 </section>
 
 <main>
@@ -1302,7 +1293,7 @@
 
 <script>
 // ─── STATE ────────────────────────────────────────────────
-let API_KEY = localStorage.getItem('cinescope_apikey') || '';
+let API_KEY = '337a657b387523c6a3dd6c38b26fe466';
 let currentType = 'multi';
 let currentItem = null;
 let currentStar = 0;
@@ -1312,10 +1303,8 @@ const IMG_BASE = 'https://image.tmdb.org/t/p/';
 
 // ─── INIT ─────────────────────────────────────────────────
 function init() {
-  if (API_KEY) {
-    document.getElementById('api-notice').style.display = 'none';
-    loadTrending();
-  }
+  document.getElementById('api-notice').style.display = 'none';
+  loadTrending();
   updateFavCount();
   document.getElementById('search-input').addEventListener('keydown', e => {
     if (e.key === 'Enter') doSearch();
