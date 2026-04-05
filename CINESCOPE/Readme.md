@@ -12,7 +12,7 @@
 **Sua roleta cinematográfica pessoal.**  
 Busque, sortei, avalie e favorite filmes & séries com estilo.
 
-[![Live Demo](https://img.shields.io/badge/▶%20Acessar%20o%20Site-CINESCOPE-e8b84b?style=for-the-badge&labelColor=0e1118)](https://JS---React.github.io/CINESCOPE)
+[![Live Demo](https://img.shields.io/badge/▶%20Acessar%20o%20Site-CINESCOPE-e8b84b?style=for-the-badge&labelColor=0e1118)](https://JS---React.github.io/CINESCOPE/cinescope.html)
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -67,7 +67,7 @@ O diferencial: além da busca tradicional, o site tem uma **roleta de sorteio** 
 
 O site já está disponível online — basta acessar:
 
-**[https://JS---React.github.io/CINESCOPE](https://JS---React.github.io/CINESCOPE)**
+**[https://JS---React.github.io/CINESCOPE](https://JS---React.github.io/CINESCOPE/cinescope.html)**
 
 Nenhuma instalação necessária. A API key do TMDB já está embutida no código.
 
